@@ -1,0 +1,25 @@
+{
+  "name": "cesar",
+  "authors": [
+    "edik <edik@example.ru>"
+  ],
+  "description": "",
+  "main": "web/index.php",
+  "keywords": [
+    "cesar"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "angularjs#^1.5.6"
+  }
+}
